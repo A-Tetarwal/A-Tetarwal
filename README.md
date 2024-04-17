@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-tetarwal" alt="a-tetarwal" /></a> </p>
 
-- 🔭 I’m currently working on [The Yard Project](https://ashterx.github.io/The-Yard-Project_corrected/)
+- 🔭 I’m currently working on [Meethi-supari](https://github.com/A-Tetarwal/Meethi-Supari)
 
 - 🌱 I’m currently learning **React and Node.js**
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/A-Tetarwal](https://github.com/A-Tetarwal)
 
-- 📝 I regularly write articles on [https://woofscode.blogspot.com/](https://woofscode.blogspot.com/)
+- 📝 I regularly write articles on [https://woofscode.blogspot.com/](https://woofscode.blogspot.com/) and planning to move on my own platform, Meethi Supari.
 
 - 💬 Ask me about **Frontend Dev, DSA and Poetry ;)**
 
