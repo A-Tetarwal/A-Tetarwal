@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/A-Tetarwal](https://github.com/A-Tetarwal)
 
-- 📝 I regularly write articles on [https://woofscode.blogspot.com/](https://woofscode.blogspot.com/) and planning to move on my own platform, Meethi Supari.
+- 📝 I regularly write articles on [https://woofscode.blogspot.com/](https://woofscode.blogspot.com/) and planning to move on my own platform, Meethi-Supari.
 
 - 💬 Ask me about **Frontend Dev, DSA and Poetry ;)**
 
