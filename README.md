@@ -5,17 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-tetarwal" alt="a-tetarwal" /></a> </p>
 
-- 🔭 I’m currently working on [Meethi-supari](https://github.com/A-Tetarwal/Meethi-Supari)
+- 🔭 I’m currently working on [Peacock Project](https://github.com/A-Tetarwal/Peacock-Project)
 
 - 🌱 I’m currently learning **React and Node.js**
 
-- 🤝 I’m looking for help with [National Health Project](https://ashterx.github.io/NHP2-Corrected/)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/A-Tetarwal)
 
-- 👨‍💻 All of my projects are available at [https://github.com/A-Tetarwal](https://github.com/A-Tetarwal)
+- 📝 I regularly write articles on [Polity-Dance](https://politydance.vercel.app/pAll/A-Tetarwal) which my own platform.
 
-- 📝 I regularly write articles on [https://woofscode.blogspot.com/](https://woofscode.blogspot.com/) and planning to move on my own platform, Meethi-Supari.
-
-- 💬 Ask me about **Frontend Dev, DSA and Poetry ;)**
+- 💬 Ask me about **Web Dev, DSA and Poetry ;)**
 
 - 📫 How to reach me **andashishwill@gmail.com**
 
