@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/A-Tetarwal)
 
-- 📝 I regularly write articles on [Polity-Dance](https://politydance.vercel.app/pAll/A-Tetarwal) which my own platform.
+- 📝 I regularly write articles on [Polity-Dance](https://politydance.vercel.app/pAll/A-Tetarwal) which is my own platform.
 
 - 💬 Ask me about **Web Dev, DSA and Poetry ;)**
 
