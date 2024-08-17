@@ -80,6 +80,8 @@
   </a>
 </p>
 
+![GitHub Skyline](https://github.com/a-tetarwal/skyline.png)
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-tetarwal&show_icons=true&locale=en&layout=compact" alt="a-tetarwal" /></p>
 
