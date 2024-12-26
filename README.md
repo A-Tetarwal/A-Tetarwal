@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ashish Tetarwal</h1>
 <h3 align="center">A passionate frontend developer from India,(IIIT-Vadodara)</h3>
 
+![My Profile Stats](https://go-git.vercel.app/badge/866caf4da7300b810bb18b2df4712da3)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a-tetarwal&label=Profile%20views&color=0e75b6&style=flat" alt="a-tetarwal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-tetarwal" alt="a-tetarwal" /></a> </p>
@@ -83,5 +85,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-tetarwal&show_icons=true&locale=en&layout=compact" alt="a-tetarwal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a-tetarwal&" alt="a-tetarwal" /></p>
-
-![My Profile Stats](https://go-git.vercel.app/badge/82175024f9e8e32dc8f4480515f9a187)
