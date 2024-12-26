@@ -83,3 +83,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-tetarwal&show_icons=true&locale=en&layout=compact" alt="a-tetarwal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a-tetarwal&" alt="a-tetarwal" /></p>
+
+![My Profile Stats](https://go-git.vercel.app/badge/82175024f9e8e32dc8f4480515f9a187)
