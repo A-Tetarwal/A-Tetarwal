@@ -1,25 +1,23 @@
 <h1 align="center">Hi 👋, I'm Ashish Tetarwal</h1>
 <h3 align="center">A passionate frontend developer from India,(IIIT-Vadodara)</h3>
 
-![My Profile Stats](https://go-git.vercel.app/badge/866caf4da7300b810bb18b2df4712da3)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a-tetarwal&label=Profile%20views&color=0e75b6&style=flat" alt="a-tetarwal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-tetarwal" alt="a-tetarwal" /></a> </p>
 
-- 🔭 I’m currently working on [Peacock Project](https://github.com/A-Tetarwal/Peacock-Project)
+- 🔭 I’m developed this, take a look at [Peacock Project](https://pp-2-theta.vercel.app/)
 
-- 🌱 I’m currently learning **React and Node.js**
+- 🌱 I’m currently learning **Next.js** to upgrade [Peacock Project](https://pp-2-theta.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/A-Tetarwal)
 
-- 📝 I regularly write articles on [Polity-Dance](https://politydance.vercel.app/pAll/A-Tetarwal) which is my own platform.
+- 📝 I sometimes write articles on [Polity-Dance](https://politydance.vercel.app/pAll/A-Tetarwal) which is my own platform.
 
-- 💬 Ask me about **Web Dev, DSA and Poetry ;)**
+- 💬 Ask me about **Web Dev and Poetry ;)**
 
 - 📫 How to reach me **andashishwill@gmail.com**
 
-- ⚡ Fun fact **I'm Choudhary by name, and literally too**
+- ⚡ Fun fact **I hate bullies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
