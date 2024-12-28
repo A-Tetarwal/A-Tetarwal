@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-tetarwal" alt="a-tetarwal" /></a> </p>
 
-- 🔭 I’m developed this, take a look at [Peacock Project](https://pp-2-theta.vercel.app/)
+- 🔭 I’ve developed this, take a look at [Peacock Project](https://pp-2-theta.vercel.app/)
 
 - 🌱 I’m currently learning **Next.js** to upgrade [Peacock Project](https://pp-2-theta.vercel.app/)
 
