@@ -5,7 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-tetarwal" alt="a-tetarwal" /></a> </p>
 
-- 🔭 I’ve developed these, take a look at [Peacock Project](https://pp-2-theta.vercel.app/), [Tetarwal](https://tetarwal.vercel.app/), [Polity-Dance](https://politydance.vercel.app/), [Love Calculater](https://react-basix.vercel.app/), [Youtube Search Extension](https://github.com/A-Tetarwal/YouTube-Quick-Search), [My Portfolio](https://a-tetarwal.github.io/), [Yard Project Frontend](https://github.com/A-Tetarwal/The-Yard-Project), [Idea on National Health Portal](https://github.com/A-Tetarwal/Uni-Health-Portal).
+- 🔭 I’ve developed these, take a look at [Peacock Project](https://pp-2-theta.vercel.app/),
+[Tetarwal](https://tetarwal.vercel.app/), [Polity-Dance](https://politydance.vercel.app/), 
+[Love Calculater](https://react-basix.vercel.app/), 
+[Youtube Search Extension](https://github.com/A-Tetarwal/YouTube-Quick-Search), 
+[My Portfolio](https://a-tetarwal.github.io/), 
+[Yard Project Frontend](https://github.com/A-Tetarwal/The-Yard-Project), 
+[Idea on National Health Portal](https://github.com/A-Tetarwal/Uni-Health-Portal).
 
 - 🌱 I’m currently learning **Next.js** to upgrade [Peacock Project](https://pp-2-theta.vercel.app/)
 
