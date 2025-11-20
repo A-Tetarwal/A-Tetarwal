@@ -7,7 +7,7 @@
 [Personal Poetry Page](https://tetarwal.vercel.app/), 
 [Love Calculater](https://react-basix.vercel.app/), 
 [Youtube Search Extension](https://github.com/A-Tetarwal/YouTube-Quick-Search), 
-[My Portfolio]([https://a-tetarwal.github.io/](https://pp-2-theta.vercel.app/portfolio/a-tetarwal)), 
+[My Portfolio](https://pp-2-theta.vercel.app/portfolio/a-tetarwal), 
 [Yard Project Frontend](https://github.com/A-Tetarwal/The-Yard-Project), 
 [Idea on National Health Portal](https://github.com/A-Tetarwal/Uni-Health-Portal).
 
