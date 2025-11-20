@@ -3,11 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a-tetarwal&label=Profile%20views&color=0e75b6&style=flat" alt="a-tetarwal" /> </p>
 
-- 🔭 I’ve developed these, take a look at [Lielines - Freelance Project](https://safe-immigrants.vercel.app/), [Peacock Project](https://pp-2-theta.vercel.app/), [Polity-Dance](https://politydance.vercel.app/), 
+- 🔭 I’ve developed these, take a look at [Lielines - Freelance Project](https://safe-immigrants.vercel.app/), [My Portfolio](https://pp-2-theta.vercel.app/portfolio/a-tetarwal), [Polity-Dance](https://politydance.vercel.app/), 
 [Personal Poetry Page](https://tetarwal.vercel.app/), 
 [Love Calculater](https://react-basix.vercel.app/), 
 [Youtube Search Extension](https://github.com/A-Tetarwal/YouTube-Quick-Search), 
-[My Portfolio](https://pp-2-theta.vercel.app/portfolio/a-tetarwal), 
 [Yard Project Frontend](https://github.com/A-Tetarwal/The-Yard-Project), 
 [Idea on National Health Portal](https://github.com/A-Tetarwal/Uni-Health-Portal).
 
