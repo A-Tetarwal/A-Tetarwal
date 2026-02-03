@@ -10,17 +10,12 @@
 [Yard Project Frontend](https://github.com/A-Tetarwal/The-Yard-Project), 
 [Idea on National Health Portal](https://github.com/A-Tetarwal/Uni-Health-Portal).
 
-- 🌱 I’m currently learning **Next.js** to upgrade [Peacock Project](https://pp-2-theta.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/A-Tetarwal)
+- 💬 Ask me about ** Dev and Poetry ;)**
 
-- 📝 I sometimes write articles on [Polity-Dance](https://politydance.vercel.app/pAll/A-Tetarwal) which is my own platform.
+- 📫 Reach me at **andashishwill@gmail.com**
 
-- 💬 Ask me about **Web Dev and Poetry ;)**
-
-- 📫 How to reach me **andashishwill@gmail.com**
-
-- ⚡ ![Quote](https://quotes-github-readme.vercel.app/api)
+![Quote](https://quotes-github-readme.vercel.app/api)
 
 
 <h3 align="left">Connect with me:</h3>
