@@ -11,9 +11,7 @@
 [Idea on National Health Portal](https://github.com/A-Tetarwal/Uni-Health-Portal).
 
 
-- 💬 Ask me about ** Dev and Poetry ;)**
-
-- 📫 Reach me at **andashishwill@gmail.com**
+- 💬 Ask me about **Dev and Poetry ;)**
 
 ![Quote](https://quotes-github-readme.vercel.app/api)
 
