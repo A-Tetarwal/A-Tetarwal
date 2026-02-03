@@ -20,8 +20,8 @@
 
 - 📫 How to reach me **andashishwill@gmail.com**
 
-- ⚡ Fun fact **![Fun Fact](https://readme-facts.vercel.app/api?type=programming)
-**
+- ⚡ ![Quote](https://quotes-github-readme.vercel.app/api)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
