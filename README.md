@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashish Tetarwal</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=a-tetarwal&label=Profile%20views&color=0e75b6&style=flat" alt="a-tetarwal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=a-tetarwal&label=Profile%20views&color=0e75b6&style=flat" alt="a-tetarwal" /> [![wakatime](https://wakatime.com/badge/user/433ea0dc-f9f9-41db-abeb-5ec56be5f1bc.svg)](https://wakatime.com/@433ea0dc-f9f9-41db-abeb-5ec56be5f1bc)</p>
 
 - 🔭 I’ve developed these, take a look at [Lielines - Freelance Project](https://safe-immigrants.vercel.app/), [My Portfolio](https://pp-2-theta.vercel.app/portfolio/a-tetarwal), [Polity-Dance](https://politydance.vercel.app/), 
 [Personal Poetry Page](https://tetarwal.vercel.app/), 
@@ -76,5 +76,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-tetarwal&show_icons=true&locale=en&layout=compact" alt="a-tetarwal" /></p>
