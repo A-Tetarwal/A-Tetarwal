@@ -2,8 +2,7 @@
 <h3 align="center">A passionate web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a-tetarwal&label=Profile%20views&color=0e75b6&style=flat" alt="a-tetarwal" /> </p>
-[![wakatime](https://wakatime.com/badge/user/433ea0dc-f9f9-41db-abeb-5ec56be5f1bc.svg)](https://wakatime.com/@433ea0dc-f9f9-41db-abeb-5ec56be5f1bc)
-
+<a href="https://wakatime.com/@433ea0dc-f9f9-41db-abeb-5ec56be5f1bc"><img src="https://wakatime.com/badge/user/433ea0dc-f9f9-41db-abeb-5ec56be5f1bc.svg" alt="Total time coded since Jan 19 2025" /></a>
 - 🔭 I’ve developed these, take a look at [Lielines - Freelance Project](https://safe-immigrants.vercel.app/), [My Portfolio](https://pp-2-theta.vercel.app/portfolio/a-tetarwal), [Polity-Dance](https://politydance.vercel.app/), 
 [Personal Poetry Page](https://tetarwal.vercel.app/), 
 [Love Calculater](https://react-basix.vercel.app/), 
