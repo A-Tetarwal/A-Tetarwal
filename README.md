@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **andashishwill@gmail.com**
 
-- ⚡ Fun fact **I hate bullies**
+- ⚡ Fun fact **(https://readme-facts.vercel.app/api?type=programming)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
