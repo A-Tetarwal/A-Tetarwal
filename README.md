@@ -6,5 +6,8 @@
 <p align="center">
   <img src="https://wakatime.com/share/@a_tetarwal/b11c3ae2-917c-441e-ba3d-a61800ae4ee0.svg" alt="WakaTime Stats">
 </p>
+<p align="center">
+  <img src="https://wakatime.com/share/@a_tetarwal/cfa0185f-8c7e-48f5-887e-e6720bd76960.svg" alt="WakaTime Stats">
+</p>
 <!--![Quote](https://quotes-github-readme.vercel.app/api)>
 
